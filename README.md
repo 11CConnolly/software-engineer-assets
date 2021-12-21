@@ -1,10 +1,10 @@
 # Software Engineer Assets
-My own personal compendium of Software Engineering related resources, both technical skills and soft skills.
+My own personal compendium of (mostly free) Software Engineering related resources, both technical skills and soft skills.
 
 ## Motivation
-There are an exceptional number of resoures and guides out there already. A lot of these guides are language specific, and things learned in one skill may not be transferable to another framework, language, job, or project. The goal of these resources is a list of assests which are design to be as high-quality, and language agnostic as possible, such that spending time with any one of these resources can benefit you no matter what project you are in, or where in your career you are. 
+There are an exceptional number of resoures and guides out there already. A lot of these guides are language specific, and things learned in one skill may not be transferable to another framework, language, job, or project. The idea is based off of the idea of [evergreen skills](https://github.com/romenrg/evergreen-skills-developers) and the goal is to curate a list of high-quality assets which are as language agnostic as possible, such that spending time with any one of these resources can benefit you no matter what project you are in, or where in your career you are. 
 
-This idea is based off of the idea of [evergreen skills](https://github.com/romenrg/evergreen-skills-developers) and seeks to find the resources, both technical and non-technical that can apply to any software engineer, or would-be software engineer. This won't be an extensive list, and seeks to narrow down some the overabundance of resources available. Links to meta-resources and other curated lists will be provided, for further study as there is a lot of benefit to these. 
+This won't be an extensive list, and seeks to narrow down some the overabundance of resources available. Links to meta-resources and other curated lists will be provided for further study as there is a lot of benefit to these. 
 
 If you have any suggestions, feedback, or other resources you'd like to see please create a PR.
 
