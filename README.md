@@ -95,3 +95,4 @@ _A collection with no real order of specific blog posts, guides, other resources
  - https://github.com/sdmg15/Best-websites-a-programmer-should-visit - Another list of websites
  - https://github.com/P1xt/p1xt-guides - CS Curriculum
  - https://github.com/mtdvio/every-programmer-should-know - Collection of Technical Knowledge
+ - https://learngitbranching.js.org/ - Git branching
