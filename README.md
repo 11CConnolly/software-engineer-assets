@@ -23,6 +23,7 @@ If you have any suggestions, feedback, or other resources you'd like to see plea
  - http://canonical.org/~kragen/memory-models/ - Memory Models
  - http://aosabook.org/en/index.html - Architecture of Open Source Applications
  - http://htdp.org/ - How to Design Programs
+ - https://github.com/donnemartin/system-design-primer - Systems Design
 
 
 ## Core Skills Resources
