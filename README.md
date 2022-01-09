@@ -37,7 +37,7 @@ If you have any suggestions, feedback, or other resources you'd like to see plea
  - https://www.goodreads.com/book/show/796465.Cognition_in_Practice - Cognition in Practice
 
 
-## Programming Papers and Books
+## Books
 _The kinds of books to keep on the shelf to make it look like you've read them._
  - https://www.goodreads.com/list/show/542.Essential_Programming_Books - Overall List of Programming Books to read
  - https://www.goodreads.com/list/show/8379.Software_Craftsmanship - More generic list of books on Crafting Software
@@ -52,7 +52,7 @@ _The kinds of books to keep on the shelf to make it look like you've read them._
  - https://www.goodreads.com/book/show/3735293-clean-code - Clean Code
  - https://www.goodreads.com/en/book/show/2333956.The_Annotated_Turing - The Annotated Turing
 
-## Programming Papers
+## Academic Papers
 _The kinds of papers worth reading twice (or thrice)_
  - https://github.com/papers-we-love/papers-we-love - Community and discussion on academic papers 
  - https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf - The Cathedral and the Bazaar
@@ -96,7 +96,7 @@ _The kinds of papers worth reading twice (or thrice)_
  - https://changelog.com/podcast - The Changelog Podcast
 
 
-## Interesting Blog Posts or Guides
+## Interesting Posts or Guides
 _A collection with no real order of specific blog posts, guides, other resources I've found interesting and relevant_
  - https://sijinjoseph.netlify.app/programmer-competency-matrix/
  - https://www.empowerapps.show/36 - Upgrading Skills
