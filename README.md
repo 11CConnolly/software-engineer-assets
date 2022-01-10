@@ -9,13 +9,13 @@ This won't be an extensive list, and seeks to narrow down some the overabundance
 If you have any suggestions, feedback, or other resources you'd like to see please create a PR.
 
 
-## Learning and Process
+## Learning and Process 💡
 - https://norvig.com/21-days.html#answers
 - https://www.scotthyoung.com/blog/ultralearning/
 - https://www.coursera.org/learn/learning-how-to-learn
 
 
-## Generic Technical Skills
+## Generic Technical Skills 🖥️
  - https://www.destroyallsoftware.com/screencasts - Exceptional resource including screencasts, blog posts, and talks which can help anyone on the fundamentals which put the 'Computer' in _Computer Science_ 
  - https://github.com/ossu/computer-science - Open Source CS Degree
  - https://github.com/kamranahmedse/design-patterns-for-humans - Design Patterns Simplified
@@ -26,7 +26,7 @@ If you have any suggestions, feedback, or other resources you'd like to see plea
  - https://github.com/donnemartin/system-design-primer - Systems Design
 
 
-## Core Skills Resources
+## Core Skills Resources ✔️
  - https://github.com/romenrg/evergreen-skills-developers#non-technical-skills - Soft Skills and Thinking Skills i.e. Communication, Emapthy, Self-management Skills, Innovation Skills
  - https://softskills.audio/ - Soft Skills Podcast
  - https://ultraspeaking.com/ - Speaking without thinking, useful for Presentations, Communications, Knowledge Sharing
@@ -37,47 +37,48 @@ If you have any suggestions, feedback, or other resources you'd like to see plea
  - https://www.goodreads.com/book/show/796465.Cognition_in_Practice - Cognition in Practice
 
 
-## Books
+## Books 📚
 _The kinds of books to keep on the shelf to make it look like you've read them._
- - (Overall List of Programming Books to read)[https://www.goodreads.com/list/show/542.Essential_Programming_Books]
- - (More generic list of books on Crafting Software)[https://www.goodreads.com/list/show/8379.Software_Craftsmanship]
- - (Apprenticeship Patterns)[https://www.goodreads.com/book/show/5608045-apprenticeship-patterns]
- - (The Secret Life of Programs)[https://www.goodreads.com/book/show/52935138-the-secret-life-of-programs]
- - (The Pragmatic Programmer)[https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer]
- - (Summary for The Pragmatic Programmer)[https://github.com/HugoMatilla/The-Pragmatic-Programmer]
- - (The Programmers Brain)[https://www.manning.com/books/the-programmers-brain]
- - (Code Complete)[https://www.goodreads.com/book/show/4845.Code_Complete]
- - (Complete Problem Solver)[https://www.goodreads.com/book/show/3356509-the-complete-problem-solver]
- - (Thinking in Systems)[https://www.goodreads.com/book/show/3828902-thinking-in-systems]
- - (Clean Code)[https://www.goodreads.com/book/show/3735293-clean-code]
- - (The Annotated Turing)[https://www.goodreads.com/en/book/show/2333956.The_Annotated_Turing]
+ - [Overall List of Programming Books to read](https://www.goodreads.com/list/show/542.Essential_Programming_Books)
+ - [More generic list of books on Crafting Software](https://www.goodreads.com/list/show/8379.Software_Craftsmanship)
+ - [Apprenticeship Patterns](https://www.goodreads.com/book/show/5608045-apprenticeship-patterns)
+ - [The Secret Life of Programs](https://www.goodreads.com/book/show/52935138-the-secret-life-of-programs)
+ - [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
+ - [Summary for The Pragmatic Programmer](https://github.com/HugoMatilla/The-Pragmatic-Programmer)
+ - [The Programmers Brain](https://www.manning.com/books/the-programmers-brain)
+ - [Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete)
+ - [Complete Problem Solver](https://www.goodreads.com/book/show/3356509-the-complete-problem-solver)
+ - [Thinking in Systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems)
+ - [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code)
+ - [The Annotated Turing](https://www.goodreads.com/en/book/show/2333956.The_Annotated_Turing)
 
-## Academic Papers
+
+## Academic Papers 📜
 _The kinds of papers worth reading twice (or thrice)_
- - (Community and discussion on academic papers )[https://github.com/papers-we-love/papers-we-love] - 
- - (The Cathedral and the Bazaar)[https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf] - 
- - (What Color is Your Function?)[https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/] - 
- - (A Mathematical Theory of Communication)[https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf] - 
- - (Traits: Composable Units of Behaviour)[http://web.cecs.pdx.edu/~black/publications/TR_CSE_02-012.pdf] - 
- - (Programming as Theory Building)[https://pages.cs.wisc.edu/~remzi/Naur.pdf] - 
- - (The Night Watch)[https://www.usenix.org/system/files/1311_05-08_mickens.pdf] - 
- - (Out of the Tar Pit)[http://curtclifton.net/papers/MoseleyMarks06a.pdf] - 
- - (Programming as an Experience: The Inspiration for Self)[https://bibliography.selflanguage.org/_static/programming-as-experience.pdf] - 
- - (On the Criteria To Be Used in Decomposing Systems into Modules)[https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf] - 
- - (The Next 700 Programming Languages)[https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf] - 
- - (Studying Attitudes and Social Norms in Agile Software Development)[https://arxiv.org/pdf/1904.09225.pdf] - 
- - (Architectural Styles)[https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm] - 
- - (Fault Protection Fundamentals)[https://trs.jpl.nasa.gov/bitstream/handle/2014/41696/08-0125.pdf] - 
- - (Why Software Projects need Heroes)[https://arxiv.org/pdf/1904.09954.pdf] -
- - (Reflections on Trusting Trust)[http://users.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf] -
- - (On Computable Numbers)[https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf] - 
- - (The Little Manual of API Design)[https://github.com/papers-we-love/papers-we-love/blob/master/api_design/api-design.pdf]
- - (Why Programming Is a Good Medium for Expressing Poorly Understood and Sloppily Formulated Ideas)[https://web.media.mit.edu/~minsky/papers/Why%20programming%20is--.html]
- - (Early LISP History)[https://github.com/papers-we-love/papers-we-love/blob/master/comp_sci_fundamentals_and_history/early-lisp-history-1956-1959-herbert-stoyan-html-rendering.pdf]
- - (Hints for Computer System Design)[https://github.com/papers-we-love/papers-we-love/blob/master/comp_sci_fundamentals_and_history/hints-for-computer-system-design.pdf]
+ - [Community and discussion on academic papers ](https://github.com/papers-we-love/papers-we-love)
+ - [The Cathedral and the Bazaar](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf)
+ - [What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
+ - [A Mathematical Theory of Communication](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
+ - [Traits: Composable Units of Behaviour](http://web.cecs.pdx.edu/~black/publications/TR_CSE_02-012.pdf)
+ - [Programming as Theory Building](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
+ - [The Night Watch](https://www.usenix.org/system/files/1311_05-08_mickens.pdf)
+ - [Out of the Tar Pit](http://curtclifton.net/papers/MoseleyMarks06a.pdf)
+ - [Programming as an Experience: The Inspiration for Self](https://bibliography.selflanguage.org/_static/programming-as-experience.pdf)
+ - [On the Criteria To Be Used in Decomposing Systems into Modules](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf)
+ - [The Next 700 Programming Languages](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf)
+ - [Studying Attitudes and Social Norms in Agile Software Development](https://arxiv.org/pdf/1904.09225.pdf)
+ - [Architectural Styles](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+ - [Fault Protection Fundamentals](https://trs.jpl.nasa.gov/bitstream/handle/2014/41696/08-0125.pdf)
+ - [Why Software Projects need Heroes](https://arxiv.org/pdf/1904.09954.pdf)
+ - [Reflections on Trusting Trust](http://users.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
+ - [On Computable Numbers](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
+ - [The Little Manual of API Design](https://github.com/papers-we-love/papers-we-love/blob/master/api_design/api-design.pdf)
+ - [Why Programming Is a Good Medium for Expressing Poorly Understood and Sloppily Formulated Ideas](https://web.media.mit.edu/~minsky/papers/Why%20programming%20is--.html)
+ - [Early LISP History](https://github.com/papers-we-love/papers-we-love/blob/master/comp_sci_fundamentals_and_history/early-lisp-history-1956-1959-herbert-stoyan-html-rendering.pdf)
+ - [Hints for Computer System Design](https://github.com/papers-we-love/papers-we-love/blob/master/comp_sci_fundamentals_and_history/hints-for-computer-system-design.pdf)
 
 
-## Blogs and Podcasts
+## Blogs and Podcasts 📰🎧
  - https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md
  - https://github.com/kilimchoi/engineering-blogs - List of all blogs
  - https://www.joelonsoftware.com/ - Joel on Software Blog
@@ -96,7 +97,7 @@ _The kinds of papers worth reading twice (or thrice)_
  - https://changelog.com/podcast - The Changelog Podcast
 
 
-## Interesting Posts or Guides
+## Interesting Posts or Guides ✍️
 _A collection with no real order of specific blog posts, guides, other resources I've found interesting and relevant_
  - https://sijinjoseph.netlify.app/programmer-competency-matrix/
  - https://www.empowerapps.show/36 - Upgrading Skills
@@ -110,7 +111,7 @@ _A collection with no real order of specific blog posts, guides, other resources
  - https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
 
 
-## Meta-resources and Other Guides
+## Meta-resources and Other Guides 📓
  - https://www.coursera.org/learn/learning-how-to-learn - Guide on Learning how to Learn, one of the most popular online courses
  - https://www.pluralsight.com/authors/codemash-conference - Annual conference with quality talks on current practices, methodologies and technology trends across various development languages
  - https://roadmap.sh/ - Developer Roadmaps for a structured approach to various development paths, including generic guides for Frontend, Backend, and DevOps, and more specific guides for frameworks and languages such as React, Go, AWS
