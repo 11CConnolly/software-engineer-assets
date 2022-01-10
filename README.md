@@ -39,42 +39,42 @@ If you have any suggestions, feedback, or other resources you'd like to see plea
 
 ## Books
 _The kinds of books to keep on the shelf to make it look like you've read them._
- - https://www.goodreads.com/list/show/542.Essential_Programming_Books - Overall List of Programming Books to read
- - https://www.goodreads.com/list/show/8379.Software_Craftsmanship - More generic list of books on Crafting Software
- - https://www.goodreads.com/book/show/5608045-apprenticeship-patterns - Apprenticeship Patterns
- - https://www.goodreads.com/book/show/52935138-the-secret-life-of-programs - The Secret Life of Programs
- - https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer - The Pragmatic Programmer
- - https://github.com/HugoMatilla/The-Pragmatic-Programmer - Summary for The Pragmatic Programmer
- - https://www.manning.com/books/the-programmers-brain - The Programmers Brain
- - https://www.goodreads.com/book/show/4845.Code_Complete - Code Complete
- - https://www.goodreads.com/book/show/3356509-the-complete-problem-solver - Complete Problem Solver
- - https://www.goodreads.com/book/show/3828902-thinking-in-systems - Thinking in Systems
- - https://www.goodreads.com/book/show/3735293-clean-code - Clean Code
- - https://www.goodreads.com/en/book/show/2333956.The_Annotated_Turing - The Annotated Turing
+ - (Overall List of Programming Books to read)[https://www.goodreads.com/list/show/542.Essential_Programming_Books]
+ - (More generic list of books on Crafting Software)[https://www.goodreads.com/list/show/8379.Software_Craftsmanship]
+ - (Apprenticeship Patterns)[https://www.goodreads.com/book/show/5608045-apprenticeship-patterns]
+ - (The Secret Life of Programs)[https://www.goodreads.com/book/show/52935138-the-secret-life-of-programs]
+ - (The Pragmatic Programmer)[https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer]
+ - (Summary for The Pragmatic Programmer)[https://github.com/HugoMatilla/The-Pragmatic-Programmer]
+ - (The Programmers Brain)[https://www.manning.com/books/the-programmers-brain]
+ - (Code Complete)[https://www.goodreads.com/book/show/4845.Code_Complete]
+ - (Complete Problem Solver)[https://www.goodreads.com/book/show/3356509-the-complete-problem-solver]
+ - (Thinking in Systems)[https://www.goodreads.com/book/show/3828902-thinking-in-systems]
+ - (Clean Code)[https://www.goodreads.com/book/show/3735293-clean-code]
+ - (The Annotated Turing)[https://www.goodreads.com/en/book/show/2333956.The_Annotated_Turing]
 
 ## Academic Papers
 _The kinds of papers worth reading twice (or thrice)_
- - https://github.com/papers-we-love/papers-we-love - Community and discussion on academic papers 
- - https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf - The Cathedral and the Bazaar
- - https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/ - What Color is Your Function?
- - https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf - A Mathematical Theory of Communication
- - http://web.cecs.pdx.edu/~black/publications/TR_CSE_02-012.pdf - Traits: Composable Units of Behaviour
- - https://pages.cs.wisc.edu/~remzi/Naur.pdf - Programming as Theory Building
- - https://www.usenix.org/system/files/1311_05-08_mickens.pdf - The Night Watch
- - http://curtclifton.net/papers/MoseleyMarks06a.pdf - Out of the Tar Pit
- - https://bibliography.selflanguage.org/_static/programming-as-experience.pdf - Programming as an Experience: The Inspiration for Self
- - https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf - On the Criteria To Be Used in Decomposing Systems into Modules
- - https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf - The Next 700 Programming Languages
- - https://arxiv.org/pdf/1904.09225.pdf - Studying Attitudes and Social Norms in Agile Software Development
- - https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm - Architectural Styles
- - https://trs.jpl.nasa.gov/bitstream/handle/2014/41696/08-0125.pdf - Fault Protection Fundamentals
- - https://arxiv.org/pdf/1904.09954.pdf - Why Software Projects need Heroes
- - http://users.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf - Reflections on Trusting Trust
- - https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf - On Computable Numbers
- - https://github.com/papers-we-love/papers-we-love/blob/master/api_design/api-design.pdf - The Little Manual of API Design
- - https://web.media.mit.edu/~minsky/papers/Why%20programming%20is--.html - Why Programming Is a Good Medium for Expressing Poorly Understood and Sloppily Formulated Ideas
- - https://github.com/papers-we-love/papers-we-love/blob/master/comp_sci_fundamentals_and_history/early-lisp-history-1956-1959-herbert-stoyan-html-rendering.pdf - Early LISP History
- - https://github.com/papers-we-love/papers-we-love/blob/master/comp_sci_fundamentals_and_history/hints-for-computer-system-design.pdf - Hints for Computer System Design
+ - (Community and discussion on academic papers )[https://github.com/papers-we-love/papers-we-love] - 
+ - (The Cathedral and the Bazaar)[https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf] - 
+ - (What Color is Your Function?)[https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/] - 
+ - (A Mathematical Theory of Communication)[https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf] - 
+ - (Traits: Composable Units of Behaviour)[http://web.cecs.pdx.edu/~black/publications/TR_CSE_02-012.pdf] - 
+ - (Programming as Theory Building)[https://pages.cs.wisc.edu/~remzi/Naur.pdf] - 
+ - (The Night Watch)[https://www.usenix.org/system/files/1311_05-08_mickens.pdf] - 
+ - (Out of the Tar Pit)[http://curtclifton.net/papers/MoseleyMarks06a.pdf] - 
+ - (Programming as an Experience: The Inspiration for Self)[https://bibliography.selflanguage.org/_static/programming-as-experience.pdf] - 
+ - (On the Criteria To Be Used in Decomposing Systems into Modules)[https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf] - 
+ - (The Next 700 Programming Languages)[https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf] - 
+ - (Studying Attitudes and Social Norms in Agile Software Development)[https://arxiv.org/pdf/1904.09225.pdf] - 
+ - (Architectural Styles)[https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm] - 
+ - (Fault Protection Fundamentals)[https://trs.jpl.nasa.gov/bitstream/handle/2014/41696/08-0125.pdf] - 
+ - (Why Software Projects need Heroes)[https://arxiv.org/pdf/1904.09954.pdf] -
+ - (Reflections on Trusting Trust)[http://users.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf] -
+ - (On Computable Numbers)[https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf] - 
+ - (The Little Manual of API Design)[https://github.com/papers-we-love/papers-we-love/blob/master/api_design/api-design.pdf]
+ - (Why Programming Is a Good Medium for Expressing Poorly Understood and Sloppily Formulated Ideas)[https://web.media.mit.edu/~minsky/papers/Why%20programming%20is--.html]
+ - (Early LISP History)[https://github.com/papers-we-love/papers-we-love/blob/master/comp_sci_fundamentals_and_history/early-lisp-history-1956-1959-herbert-stoyan-html-rendering.pdf]
+ - (Hints for Computer System Design)[https://github.com/papers-we-love/papers-we-love/blob/master/comp_sci_fundamentals_and_history/hints-for-computer-system-design.pdf]
 
 
 ## Blogs and Podcasts
