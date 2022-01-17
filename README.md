@@ -108,6 +108,7 @@ _A collection with no real order of specific blog posts, guides, other resources
  - https://blog.testdouble.com/posts/2013-08-29-great-technical-talks/
  - https://www.romenrg.com/blog/2018/12/29/what-makes-a-great-software-engineer/
  - https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
+ - http://blog.stephenwyattbush.com/2012/04/07/dad-and-the-ten-commandments-of-egoless-programming
 
 
 ## Meta-resources and Other Guides
