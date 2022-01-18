@@ -109,6 +109,7 @@ _A collection with no real order of specific blog posts, guides, other resources
  - https://www.romenrg.com/blog/2018/12/29/what-makes-a-great-software-engineer/
  - https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
  - http://blog.stephenwyattbush.com/2012/04/07/dad-and-the-ten-commandments-of-egoless-programming
+ - https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
 
 
 ## Meta-resources and Other Guides
