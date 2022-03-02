@@ -114,6 +114,7 @@ _A collection with no real order of specific blog posts, guides, other resources
 
 ## Meta-resources and Other Guides
  - https://www.coursera.org/learn/learning-how-to-learn - Guide on Learning how to Learn, one of the most popular online courses
+ - https://www.freecodecamp.org/learn/ - Adding this in here as DS & A is never a bad investment, and the range of practices is astounding
  - https://www.pluralsight.com/authors/codemash-conference - Annual conference with quality talks on current practices, methodologies and technology trends across various development languages
  - https://roadmap.sh/ - Developer Roadmaps for a structured approach to various development paths, including generic guides for Frontend, Backend, and DevOps, and more specific guides for frameworks and languages such as React, Go, AWS
  - https://github.com/yangshun/tech-interview-handbook - Tech interview Guide
