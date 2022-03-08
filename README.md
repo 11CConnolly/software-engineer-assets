@@ -81,6 +81,7 @@ _The kinds of papers worth reading twice (or thrice)_
  - https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md
  - https://github.com/kilimchoi/engineering-blogs - List of all blogs
  - https://www.joelonsoftware.com/ - Joel on Software Blog
+ - https://blog.danslimmon.com - Dan Slimmon's Blog (More Related to SRE)
  - https://devhell.info/ - Dev Hell Blog
  - https://simpleprogrammer.com/ - Simple Programmer Blog
  - https://www.ee.ryerson.ca/~elf/hack/index.html - Hacker's Wisdom Blog
