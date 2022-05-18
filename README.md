@@ -129,3 +129,4 @@ _A collection with no real order of specific blog posts, guides, other resources
  - https://github.com/mtdvio/every-programmer-should-know - Collection of Technical Knowledge
  - https://learngitbranching.js.org/ - Git branching
  - http://issuehub.pro/?label%5B%5D=beginner&language=javascript - Finding Open Source projects to contribute to
+ - https://0xax.gitbooks.io/linux-insides/content/ - Tutorial on Linux internals
