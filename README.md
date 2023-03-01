@@ -24,6 +24,7 @@ If you have any suggestions, feedback, or other resources you'd like to see plea
  - http://aosabook.org/en/index.html - Architecture of Open Source Applications
  - http://htdp.org/ - How to Design Programs
  - https://github.com/donnemartin/system-design-primer - Systems Design
+ - https://missing.csail.mit.edu/
 
 
 ## Core Skills Resources
