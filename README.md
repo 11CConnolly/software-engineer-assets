@@ -16,7 +16,7 @@ If you have any suggestions, feedback, or other resources you'd like to see plea
 
 
 ## Generic Technical Skills
- - https://www.destroyallsoftware.com/screencasts - Exceptional resource including screencasts, blog posts, and talks which can help anyone on the fundamentals which put the 'Computer' in _Computer Science_ 
+ - https://www.destroyallsoftware.com/screencasts - Exceptional resource including screencasts, blog posts, and talks which can help anyone on the fundamentals
  - https://github.com/ossu/computer-science - Open Source CS Degree
  - https://github.com/kamranahmedse/design-patterns-for-humans - Design Patterns Simplified
  - https://composingprograms.com/ - Composing Programs
@@ -24,7 +24,7 @@ If you have any suggestions, feedback, or other resources you'd like to see plea
  - http://aosabook.org/en/index.html - Architecture of Open Source Applications
  - http://htdp.org/ - How to Design Programs
  - https://github.com/donnemartin/system-design-primer - Systems Design
- - https://missing.csail.mit.edu/
+ - https://missing.csail.mit.edu/ - Missing Semenster series on important tools, concepts any software will use
 
 
 ## Core Skills Resources
