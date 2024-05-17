@@ -14,6 +14,11 @@ If you have any suggestions, feedback, or other resources you'd like to see plea
 - https://www.scotthyoung.com/blog/ultralearning/
 - https://www.coursera.org/learn/learning-how-to-learn
 
+## Space
+- https://www.amazon.co.uk/How-Apollo-Flew-Moon-Springer/dp/B08R45789Z/
+- https://www.amazon.co.uk/Ignition-Informal-History-Liquid-Propellants/dp/B07CTVGZV7/ (https://www.reddit.com/r/spacex/comments/2z9hn7/ever_wonder_what_books_elon_read_prior_to/)
+- https://www.amazon.co.uk/Future-Geography-Power-Politics-Change/dp/B0BGT76X1P/
+- https://www.amazon.co.uk/Fundamentals-Astrodynamics-Second-Dover-Physics/dp/0486497046/
 
 ## Generic Technical Skills
  - https://www.destroyallsoftware.com/screencasts - Exceptional resource including screencasts, blog posts, and talks which can help anyone on the fundamentals
