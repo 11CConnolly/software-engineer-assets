@@ -95,7 +95,6 @@ _The kinds of papers worth reading twice (or thrice)_
  - https://blog.codinghorror.com/ - Coding Horror Blog
  - https://cedwards.xyz/ - Connor's Blog
  - http://lambda-the-ultimate.org/ - Programming Languages Blog
- - https://www.youtube.com/c/funfunfunction - FunFunFunction YouTube Channel
  - https://docs.microsoft.com/en-gb/shows/ - Microsoft Archives talks and videos, from basic to more specific
  - https://github.com/learn-anything/podcasts - List of all podcasts
  - https://www.programmingthrowdown.com/ - Programming Throwdown Podcast
